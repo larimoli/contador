@@ -1,2 +1,1 @@
-# Netflix-Clone
-Projeto DIO Interface Netflix
+# Primeiro projeto JS
